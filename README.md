@@ -411,7 +411,7 @@ We welcome contributions! Here's how you can help:
 
 1. **Fork the Repository**
    ```bash
-   git fork https://github.com/yourusername/mnist-cnn-classifier.git
+   git fork https://github.com/sam-zahed/MNIST-CNN.git
    ```
 
 2. **Create a Feature Branch**
@@ -480,15 +480,6 @@ in the Software without restriction...
 
 ---
 
-## 📞 Contact
-
-**Project Maintainer**: Your Name
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
----
-
 ## ⭐ Star History
 
 If you find this project helpful, please consider giving it a star! ⭐
@@ -501,6 +492,6 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 **Made with ❤️ and PyTorch**
 
-[Report Bug](https://github.com/yourusername/mnist-cnn-classifier/issues) · [Request Feature](https://github.com/yourusername/mnist-cnn-classifier/issues)
+[Report Bug](https://github.com/sam-zahed/MNIST-CNN/issues) · [Request Feature](https://github.com/sam-zahed/MNIST-CNN/issues)
 
 </div>
