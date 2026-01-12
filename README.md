@@ -160,8 +160,8 @@ matplotlib>=3.7.0
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/mnist-cnn-classifier.git
-cd mnist-cnn-classifier
+git clone https://github.com/sam-zahed/MNIST-CNN.git
+cd MNIST-CNN
 ```
 
 ### Step 2: Create Virtual Environment (Recommended)
